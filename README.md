@@ -1,3 +1,6 @@
+Final Results
+![Vacation ](Images/Vacation.png)
+
 # Python API Homework - What's the Weather Like?
 
 ## Background
